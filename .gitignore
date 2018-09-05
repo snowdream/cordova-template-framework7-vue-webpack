@@ -42,3 +42,11 @@ dist/
 npm-debug.log
 www/
 src/fonts
+
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
